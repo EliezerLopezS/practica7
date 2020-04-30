@@ -8,7 +8,6 @@
     <a-scene embedded arjs>
       <a-entity scale=".2 .2 .2"> 
         <a-entity gltf-model="model.gltf" scale="3 3 3" crossOrigin="anonymous">
-        </a-animation>
         </a-entity>
         <a-marker-camera preset='hiro'></a-marker-camera>
         </a-scene>
