@@ -7,7 +7,7 @@
   <body>
     <a-scene embedded arjs>
       <a-entity scale=".2 .2 .2"> 
-        <a-entity gltf-model="tazaa.obj" scale="4 4 4" crossOrigin="anonymous">
+        <a-entity gltf-model="model.gltf" scale="4 4 4" crossOrigin="anonymous">
         </a-entity>
         <a-marker-camera preset='hiro'></a-marker-camera>
         </a-scene>
